@@ -91,7 +91,7 @@ You will install the following dependencies
 
 
 # SOLIDITY DEVELOPER
-* A Solidity developer is a blockchain developer who works with smart contracts on Ethereum-based applications. A Solidity developer job description may include: Developing and deploying smart contracts. Auditing smart contracts. Communicating with users to translate business goals into technical requirements.
+* A Solidity developer is a blockchain developer who works with smart contracts on Ethereum-based applications. A Solidity developer job description may include: Developing and deploying smart contracts. Auditing smart contracts. Communicating with users to translate business goals into technical requirements. !!!!!!
 
 ![1-2](https://user-images.githubusercontent.com/98481882/180642670-dff167c6-4e9b-4002-a2e0-e511ab670cf2.jpg)
 
