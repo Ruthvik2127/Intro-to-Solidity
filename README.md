@@ -87,7 +87,7 @@ cd/mnt/c/users/mypc/desktop/solidityProject
 * Step4:-Install all necessary dependencies. Multiple methods exist to run Solidity on your local computer. We will use NodeJs.
 Install cURL on your Bash environment using the command below.
  sudo apt install curl
-You will install the following dependencies
+You will install the following dependencies in the following :
 
 
 # SOLIDITY DEVELOPER
